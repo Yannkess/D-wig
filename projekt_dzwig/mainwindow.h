@@ -24,6 +24,10 @@ private slots:
 
     void on_pushButton_gora_clicked();
 
+    void on_pushButton_lewo_clicked();
+
+    void on_pushButton_prawo_clicked();
+
 private:
     Ui::MainWindow *ui;
 
