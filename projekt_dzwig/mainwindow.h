@@ -4,7 +4,6 @@
 #include <QMainWindow>
 #include <QPropertyAnimation>
 #include <QDebug>
-#include <QPainter>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -36,7 +35,7 @@ private:
 
     int masa;
     int udzwig;
-    bool CzyGora;
-    bool CzyLewo;
+    bool Góra;
+    bool Lewo;
 };
 #endif // MAINWINDOW_H

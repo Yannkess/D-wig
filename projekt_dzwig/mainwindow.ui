@@ -25,16 +25,16 @@
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout">
      <item>
-      <widget class="QPushButton" name="pushButton_prawo">
+      <widget class="QPushButton" name="pushButton_lewo">
        <property name="text">
-        <string>Prawo</string>
+        <string>Lewo</string>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton_lewo">
+      <widget class="QPushButton" name="pushButton_prawo">
        <property name="text">
-        <string>Lewo</string>
+        <string>Prawo</string>
        </property>
       </widget>
      </item>
@@ -98,7 +98,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="lineEdit_2"/>
+      <widget class="QLineEdit" name="udzwig"/>
      </item>
     </layout>
    </widget>
@@ -120,7 +120,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="lineEdit"/>
+      <widget class="QLineEdit" name="masa"/>
      </item>
     </layout>
    </widget>
@@ -150,7 +150,7 @@
      <x>0</x>
      <y>0</y>
      <width>1000</width>
-     <height>26</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
